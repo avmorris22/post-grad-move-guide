@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://avmorris22.github.io/post-grad-move-guide/sitemap.xml
